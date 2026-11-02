@@ -77,3 +77,8 @@ El uso y la redistribución están sujetos a la licencia propietaria que acompa�
 ## Soporte
 
 ¿Encontraste un problema o tienes una sugerencia? [Abre una incidencia](https://github.com/dannymedinacoronel/Pausa-Bloom/issues).
+
+## Comunidad
+
+- 💬 ¿Dudas, ideas o trucos? Cuéntalo en [Discussions](https://github.com/dannymedinacoronel/Pausa-Bloom/discussions).
+- ⭐ Si la extensión te ayuda, una estrella en este repositorio me ayuda a que más gente la encuentre.
