@@ -1,16 +1,16 @@
-## Pausa Bloom 3.0.0
+## Novedades
 
-### Novedades
+- Rutinas iniciales para días largos y cortos, con ajustes de horario y sugerencias de pausas.
+- Registro con un clic, temporizador opcional, calendario mensual y edición del historial.
+- Progreso visual, estadísticas, jardín animado y temas personalizables.
+- Iconos configurables para cada jornada, incluida la bomba.
+- Recordatorios, sonidos, atajos, copias de seguridad y exportación CSV.
 
-- Rutinas para días largos y cortos con horarios sugeridos.
-- Calendario, historial, métricas y jardín animado.
-- Iconos de descanso personalizables por jornada.
-- Copias de seguridad y exportación CSV.
+## Instalar en Chrome o Edge
 
-### Instalación
+1. Descarga `PausaBloom-Chrome-Edge.zip` en los archivos de este release y descomprímelo.
+2. Abre `chrome://extensions` o `edge://extensions`.
+3. Activa **Modo de desarrollador** y pulsa **Cargar descomprimida**.
+4. Selecciona la carpeta extraída.
 
-1. Descarga `PausaBloom-Chrome-Edge.zip` desde los archivos adjuntos de este release.
-2. Descomprime el ZIP.
-3. Carga la carpeta desde `chrome://extensions` o `edge://extensions` con el modo de desarrollador habilitado.
-
-No se incluyen aquí los archivos del repositorio privado; el paquete contiene los recursos necesarios para ejecutar la extensión.
+El instalador contiene los archivos necesarios para ejecutar la extensión. El repositorio público contiene la presentación; el código fuente se mantiene en un repositorio privado.
