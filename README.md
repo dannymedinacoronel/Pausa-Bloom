@@ -6,7 +6,7 @@
 
 **Tus descansos, a tu ritmo.** Pausa Bloom te ayuda a organizar las pausas de tu jornada, registrar cuándo empiezan y ver cómo progresa tu rutina con un jardín que crece contigo.
 
-> **Descarga:** [Pausa Bloom para Chrome y Edge](https://github.com/dannymedinacoronel/pausa-bloom-extension/releases/latest/download/PausaBloom-Chrome-Edge.zip)
+> **Descarga:** [Pausa Bloom para Chrome y Edge](https://github.com/dannymedinacoronel/Pausa-Bloom/releases/latest/download/PausaBloom-Chrome-Edge.zip)
 >
 > Descomprime el ZIP y sigue las instrucciones de instalación más abajo.
 
@@ -36,7 +36,7 @@ Puedes vincular un bot de Telegram para recibir avisos en tu móvil. Es opcional
 
 ## Instalar en Chrome o Edge
 
-1. Descarga el [ZIP de la última versión](https://github.com/dannymedinacoronel/pausa-bloom-extension/releases/latest/download/PausaBloom-Chrome-Edge.zip) y descomprímelo.
+1. Descarga el [ZIP de la última versión](https://github.com/dannymedinacoronel/Pausa-Bloom/releases/latest/download/PausaBloom-Chrome-Edge.zip) y descomprímelo.
 2. Abre `chrome://extensions` en Chrome o `edge://extensions` en Edge.
 3. Activa **Modo de desarrollador**.
 4. Pulsa **Cargar descomprimida** y selecciona la carpeta extraída.
@@ -65,4 +65,4 @@ El uso y la redistribución están sujetos a la licencia propietaria que acompa�
 
 ## Soporte
 
-¿Encontraste un problema o tienes una sugerencia? [Abre una incidencia](https://github.com/dannymedinacoronel/pausa-bloom-extension/issues).
+¿Encontraste un problema o tienes una sugerencia? [Abre una incidencia](https://github.com/dannymedinacoronel/Pausa-Bloom/issues).
