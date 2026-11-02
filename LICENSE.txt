@@ -1,0 +1,35 @@
+PAUSA BLOOM — LICENCIA PROPIETARIA
+
+Copyright (c) 2026 dannymedinacoronel. Todos los derechos reservados.
+
+Este paquete se proporciona únicamente para instalar y utilizar Pausa Bloom
+en un navegador compatible, para uso personal. Al descargar, instalar o
+utilizar el paquete, aceptas estas condiciones en la medida permitida por
+la legislación aplicable.
+
+Salvo autorización escrita y expresa del titular de los derechos, no se
+permite:
+
+1. Copiar, modificar, adaptar o crear obras derivadas de Pausa Bloom.
+2. Distribuir, publicar, sublicenciar, vender, alquilar o compartir copias
+   de Pausa Bloom, total o parcialmente.
+3. Utilizar el nombre, las marcas, los gráficos o los materiales de Pausa
+   Bloom para presentar otro producto como oficial o afiliado.
+4. Realizar ingeniería inversa, descompilar o desensamblar el producto,
+   excepto en la medida en que la ley aplicable prohíba restringir esa
+   actividad.
+
+Los derechos de autor y otros derechos de propiedad intelectual sobre
+Pausa Bloom permanecen en su titular. El acceso a un paquete de descarga
+no transfiere la propiedad del software ni concede otros derechos.
+
+Pausa Bloom se proporciona "tal cual", sin garantías en la medida
+permitida por la ley. El titular no será responsable de daños derivados
+del uso del producto en la medida permitida por la legislación aplicable.
+
+Esta licencia no pretende restringir derechos irrenunciables ni
+obligaciones que la ley local imponga al titular. Las disposiciones que no
+puedan aplicarse se limitarán en lo necesario, sin afectar a las restantes.
+
+La distribución de código fuente requiere una licencia independiente; este
+repositorio público de presentación no incluye el código fuente.
